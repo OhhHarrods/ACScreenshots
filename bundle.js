@@ -10129,7 +10129,7 @@ function onMouseOverOrg() {
 
 function photoChange() {
   photoCount.innerHTML = "Photo " + count + " of " + totalPhotos;
-  mainImg.src = "../images/" + photo[count];
+  mainImg.src = "/images/" + photo[count];
   carName = mainImg.src;
   carName = carName.replace("https://ohhharrods.github.io/ACScreenshots/images/", "");
   carName = carName.replace("https://ohhharrods.github.io/images/", "");
@@ -10141,7 +10141,7 @@ function photoChange() {
 }
 
 function playAudio() {
-  audio = new Audio('/audio/KSLV - Dynamic.mp3');
+  audio = new Audio('./audio/KSLV - Dynamic.mp3');
   audio.volume = 0.1;
 
   if (typeof audio.loop == 'boolean') {

@@ -10046,7 +10046,32 @@ __webpack_require__.r(__webpack_exports__);
 // importing the sass stylesheet for bundling
  // references to objects on page
 
-photo = ["Hush Evo 1.png", "Hush Evo 2.png", "Hush Evo 3.png", "Hush Evo 4.png", "Hush M3 1.png", "Hush M3 2.png", "Hush M3 3.png", "Hush M3 4.png", "Hush M3 5.png", "Hush R34.png", "Hush Rx7.png", "Hush S14.png", "Hush Supra.png", "Joel's S14 2.png", "Joel's S14.png", "LSG S13 1.png", "LSG S13 2.png", "LSG S13 3.png", "LSG S13 4.png", "LSG S13 5.png", "LSG S13 6.png", "LSG S15 (Rain).png", "LSG S15.png", "Rx7 FC3S.jpg", "S15.jpg", "WDT Supra.png"];
+photo = ["https://lh3.googleusercontent.com/JPnITsK3we372Pz8-p9AhPiK8lE4-35vta_ubqvGtPLxXiRx5tJCnhIN8S2GnDWwpJxjSVjfLmaMJXPq-rE3R6isSRsZF5FFKaIjBQku7TiMDUHtgDL1B9oNfcL1F16Z_fKZZJfEDg=w2400", //Hush Evo 1
+"https://lh3.googleusercontent.com/JfCAuye2DCfjdp0wCFXJ0_pHLNop0eO56iHCRjSnegmrKqQCJYgb0wHRs9GWiWNG2i1YwiP-YEajU8aFC2-5bJVUUtMkOsUZbkkxZMSnR26xOmJVuK-AwsVt6QZj5i38Z0RK9Ecuig=w2400", //Hush Evo 2
+"https://lh3.googleusercontent.com/JGc0Q9YcWQlTJXTyvn7MM2YRV6OFBvyyFNlKuWnIb7sBoHUSfklrsUhbplVoZEmLGQzIZyDZ6cqPnny4PDeZiDxyvjm711XzMySYrmi-XhH0mCvOxrXtr87vlSoUGNkQRr3P8FXiLA=w2400", //Hush Evo 3
+"https://lh3.googleusercontent.com/NzYLtiXSfCAO5BwnK9i-TwS-D1bWMBWSxsNBIBOLQ-pKR3EdLTzg3GUGDOpq3WQJW24-QxD3zSsLSSK5hd9j2GabV7aBk64r6tmbv7UzSqrqFkyjMw2r2kJoAI-Fh7juOPKZiOwA3w=w2400", //Hush Evo 4
+"https://lh3.googleusercontent.com/JJD-Is33ydESc3P71z1cRulJcgLbMzUz7FB7G4px10pi7K-_iVLzF5VI20OLVTEyh4Eu3Xh3Q-tiBevfPBHMGnuMp68N3nv6d4pyn4NI7kTSIDvn-8h_Dai_tEy7lVK3VKYRExC_zA=w2400", //Hush M3 1
+"https://lh3.googleusercontent.com/erUQlpzh1bB6FzJOD4esoLmDVNMS3B2Tkf7lPGimSqpXEPjRrJ_lgHQa0q1Cmw7GYljVMKOubK7LAPeNI2ANagKCYaxvLCswLRJOuaP1f97b1jAgs1XOD4rPI9tX43zn4aatRqHL1Q=w2400", //Hush M3 2
+"https://lh3.googleusercontent.com/1bMeCzzf1xlSXZsPQnBJ6tcZlZqC6xZgvesrukx6Tt5ZscYAlKy71Ng7fx8okfkGLFV0g9g4M4zc5TXJrfr3UVPKjFG79ltTs1OiAGuVCf90tQbYwa3AUs6YRGM7lxCn84H3oXO3UA=w2400", //Hush M3 3
+"https://lh3.googleusercontent.com/g8gFHcXPCHarpbCv-HTKDJ4pP5w2p2FqROuqIm7fVJMHhCQNnefrSZc6xMh_f9LS4DJtSseizzJ_JXgBDTE9cIgSue6g8cfh5ES-azHNtjvqDQoQxPI1mmrrZFhT3GjaAk6yyQaM8A=w2400", //Hush M3 4
+"https://lh3.googleusercontent.com/eLin38ibq0zdsJIGgaOEEMZ2vDOt0vJv_ibks-NWQ74zcXNmiQnYwCVnCdXp3SbY7K6u4to-mchWSIHTIqGkr3Sdk7VGbyzHkHeyKUFCkqFKaPXddEwn2PC0EUvoYff9FFrZWlfTVA=w2400", //Hush M3 5
+"https://lh3.googleusercontent.com/1fUye_8ZmNwlzyYhQKJ_oW3TKF6hcdyIfF6aqk-Ziy47ttEZXheql00KP42Z7WDwjlFuoFAP3OUlRiTC7SZOKoy4J3gTLz3Pwo4tqdCaf-GRFPS3jAmCbcejBKcZ3AqXIoaNiOxAvg=w2400", //Hush R34
+"https://lh3.googleusercontent.com/j1gJRxGvedkQanqeyBfQAOwRI-w4SthbV7hcKbNbTw4b3XpUzmKmQPnZ45JugZvLA-GFwyVFBjKmQBz3YCTbHZdZ4_YecUTNg8a1bbcbVE28Xkfp3dSGKpF5w7DhFyJG96Yli5bRHw=w2400", //Hush Rx7
+"https://lh3.googleusercontent.com/0BJ4mvuP8ySjUkGQ15G66siFFj10Z64MRvM1jMZsqS_28Pt6SeeAv1u5LXKmQlt1sJrGxRDaMAECmAGRYiPrZPKe0Q0ab8UMWNqLDPYlIL1bf26zS-n_myaNIzsrpoEGMBULZeRIgQ=w2400", //Hush S14
+"https://lh3.googleusercontent.com/AcyQtDJDHodrrC2GnUfRt1T5vhxknDBlED2hxSC0VEfNUokFK0y1rIB8-kiNzXSoyn0S7ut2OLlYAodv_9Qg0VmRDIH1Yra-lUzgOUrzLffYkoPQk0DVxqMfhs3n-1-ltdJoCkOv3w=w2400", //Hush Supra
+"https://lh3.googleusercontent.com/1nnQ7V-LWJ9zNLOKnME8iNnEeVM04REIsNJi7ux7eyxqsn9ZS6dk9KHLlxXOAhz0lTIkY90DDVegBaDEhWPsfTXdn0WtU8MCoUSENm0Bo5A9pN7A-sciCLgtf-5EichWIoFE4Cw9cg=w2400", //Joel's S14 2
+"https://lh3.googleusercontent.com/wkHnp-npzJgWBxS-w3Y0GyLsXFzZGRFcg9qyGigvL8SezUpVeO658EctyOHAh1HxqFyPSGEoJzxTdhJ0AnFw1fAz8ZBw4wuYl3AkHoehQKfOuDGRhiI1N4HD-rx1u1UrSmehWRaqQA=w2400", //Joel's S14
+"https://lh3.googleusercontent.com/iUjxY-g7yQIFJwk7h22jL3jVy1tVCKxrmGvcvx7oGV-cqWLtWINM04Wf5tgC7JfmSN2xYaRddt8QLG3RVNppp1Tx-sQNUBXelf2RT7J_uUYyu17QWVxdz7we5RRByW3haYjGQC872A=w2400", //LSG S13 1
+"https://lh3.googleusercontent.com/5y16xmQ17UATtS1-khSkAV92QUp-kv9X3wKegejSsrALwFF2O0Z9RHVT8UZzRn6iv24yHWvBNn0X8XaC7Vp-ekp3BxFKHtbUVRtbkcnJx-we082YGKGK3L8mDGFlko6h2erLyd1l4w=w2400", //LSG S13 2
+"https://lh3.googleusercontent.com/9YLpLqKpe-uX66SyIknw2lYkfpFzgp3w0W8TPUrR7aKsnlYTOm8IuAGkeFeqb_HJfAknsl4af7ORMBTbmRamhSOW9_iQMBKcRKVRW2ddy5TW5z99pjhknqvMjfZjnrlJxRrTvWAzEA=w2400", //LSG S13 3
+"https://lh3.googleusercontent.com/_E74rWV72AqGkd-chq3GdS8DORbd0gawTvvVC4tVJszCTBRE1maltaEyVNTMYqaJgnT2Uvz33y4I0TXN6lb7enHH6XWPvnIEdkaD2in5o4iudVAHMajgq10iX9r1oLH1Z0rHcb3iTw=w2400", //LSG S13 4
+"https://lh3.googleusercontent.com/MYrfLAC3G8-rmCCF7Cw6VAgx90UcRcBbKGw8s1bIsSj5ffrqZei5g5Lb1OmZ5doNPm87L_4XjqZWF4yIk33rVM0cPuSRCbnQwtezAyyT_ZgObFN16r4gYWgTLaVvhAepaUzu0lMn1g=w2400", //LSG S13 5
+"https://lh3.googleusercontent.com/mTXl2jzFpHFmUwOKBZwYJ7ZjA7vXtabcCjLCOCDCYnu-pPprPKw2FRsG-AMuYeJHNRRS8LjoneAOpQpeagc62fCVwy7BNqitrtCSELiJuF-SRnuKVb_vT9LSweA8OiA4bLaghNcaTw=w2400", //LSG S13 6
+"https://lh3.googleusercontent.com/y51kklMrJaMCKeCKO9TXc2qKwrJStd4KwulwCqNMnhg9cBYzV1nxT4rtNsZh7pYNLwTjCnOpePP4tGld-1RC6pjQx7uwt-Qj7sIrayP4o0gJDZWRnRJRFYvfd1eahQELx_N6IUZZIg=w2400", //LSG S15 (Rain)
+"https://lh3.googleusercontent.com/ZYtpA9RWHvHfbGTZ2OG4xWfx6dHJUpI959S_uH7X407tCRncGmHC-EQB0JPlJOZ5pM-CurYNq7HXshPC_9st0-892GJ_Qet2A-I5nyQMlnoxKc62n2FRRiaZTaDml2zXZicqurwTAw=w2400", //LSG S15
+"https://lh3.googleusercontent.com/-7pv8jvMoSMIh45RaeqItcQu-dpn4rnXSemSQcflwK2eWwmulNdBOkNFlVeU2KNa66I2OuSGNXofj8pTgpg5QYJITA_owok2pQ-yEJhPgVsk-odJ7IK9qmNBgbMfMEpJMBWZYe7JCQ=w2400", //Rx7 FC3S
+"https://lh3.googleusercontent.com/_QfZLIg6fDY5fnMd0SsuDFPmYBWBiAe3c5jHkbGG35K4IM6LKkwrSY-6ISfsXXRoo7tHwffnz9NOc_l28GwzCNwZZJkyTd4QXk_NfW7A5MijmxK-bwwXedyPLbgdfAbqNroVFx_FSg=w2400" //S15
+];
 var btnPrevious;
 var btnNext;
 var btnOrg;
@@ -10129,15 +10154,7 @@ function onMouseOverOrg() {
 
 function photoChange() {
   photoCount.innerHTML = "Photo " + count + " of " + totalPhotos;
-  mainImg.src = "/images/" + photo[count];
-  carName = mainImg.src;
-  carName = carName.replace("https://ohhharrods.github.io/ACScreenshots/images/", "");
-  carName = carName.replace("https://ohhharrods.github.io/images/", "");
-  carName = carName.replace(".png", "");
-  carName = carName.replace(".jpg", "");
-  carName = carName.replace("%20", " ");
-  carName = carName.replace("%20", " ");
-  photoTitle.innerHTML = carName;
+  mainImg.src = photo[count];
 }
 
 function playAudio() {

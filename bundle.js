@@ -10129,9 +10129,9 @@ function onMouseOverOrg() {
 
 function photoChange() {
   photoCount.innerHTML = "Photo " + count + " of " + totalPhotos;
-  mainImg.src = "./images/" + photo[count];
+  mainImg.src = "../images/" + photo[count];
   carName = mainImg.src;
-  carName = carName.replace("http://localhost:5000/images/", "");
+  carName = carName.replace("https://ohhharrods.github.io/ACScreenshots/images/", "");
   carName = carName.replace(".png", "");
   carName = carName.replace(".jpg", "");
   carName = carName.replace("%20", " ");

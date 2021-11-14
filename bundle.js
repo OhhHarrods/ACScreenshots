@@ -10132,6 +10132,7 @@ function photoChange() {
   mainImg.src = "../images/" + photo[count];
   carName = mainImg.src;
   carName = carName.replace("https://ohhharrods.github.io/ACScreenshots/images/", "");
+  carName = carName.replace("https://ohhharrods.github.io/images/", "");
   carName = carName.replace(".png", "");
   carName = carName.replace(".jpg", "");
   carName = carName.replace("%20", " ");

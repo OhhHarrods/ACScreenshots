@@ -10140,7 +10140,7 @@ function photoChange() {
 }
 
 function playAudio() {
-  audio = new Audio('./audio/KSLV - Dynamic.mp3');
+  audio = new Audio('/audio/KSLV - Dynamic.mp3');
   audio.volume = 0.1;
 
   if (typeof audio.loop == 'boolean') {

@@ -10362,8 +10362,10 @@ function onMouseOverOrg() {
 
 
 function photoChange() {
+  document.getElementById("loading").style.display = "block";
   photoCount.innerHTML = "Photo " + count + " of " + totalPhotos;
   mainImg.src = photo[count];
+  loading();
 }
 
 function loading() {

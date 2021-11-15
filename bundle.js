@@ -10160,6 +10160,7 @@ function photoChange() {
 function playAudio() {
   audio = new Audio('dynamic.mp3');
   audio.volume = 0.1;
+  audio.muted = 0;
 
   if (typeof audio.loop == 'boolean') {
     audio.loop = true;

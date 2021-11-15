@@ -10157,26 +10157,8 @@ function photoChange() {
   mainImg.src = photo[count];
 }
 
-function playAudio() {
-  audio = new Audio('dynamic.mp3');
-  audio.volume = 0.1;
-  audio.muted = 0;
-
-  if (typeof audio.loop == 'boolean') {
-    audio.loop = true;
-  } else {
-    audio.addEventListener('ended', function () {
-      this.currentTime = 0;
-      this.play();
-    }, false);
-  }
-
-  audio.play();
-}
-
 function main() {
   // setup references to controls
-  playAudio();
   mainImg = document.getElementById("imgPhoto");
   photoTitle = document.getElementById("photoTitle");
   photoCount = document.getElementById("photoCount");

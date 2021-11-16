@@ -10291,7 +10291,6 @@ var photoCount;
 var mainImg;
 var totalPhotos;
 var photo;
-var photoTitle;
 totalPhotos = photo.length; // Checking to see if the Next / Previous button should be disabled / enabled
 
 function countCheck() {
@@ -10362,15 +10361,7 @@ function onMouseOverOrg() {
 
 
 function photoChange() {
-  document.getElementById("loading").style.display = "block";
   photoCount.innerHTML = "Photo " + count + " of " + totalPhotos;
-  mainImg = new Image();
-
-  mainImg.onload = function () {
-    alert("Height: " + this.height);
-    document.getElementById("loading").style.display = "none";
-  };
-
   mainImg.src = photo[count];
 }
 
@@ -10384,7 +10375,6 @@ function main() {
   // setup references to controls
   loading();
   mainImg = document.getElementById("imgPhoto");
-  photoTitle = document.getElementById("photoTitle");
   photoCount = document.getElementById("photoCount");
   btnPrevious = document.getElementById("previous");
   btnNext = document.getElementById("btnNext");

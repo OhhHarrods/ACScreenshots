@@ -11,6 +11,10 @@
   background-color: #ffffff;
 }
 
+.preload {
+  display: none;
+}
+
 body {
   display: -webkit-box;
   display: -ms-flexbox;

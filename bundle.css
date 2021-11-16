@@ -11,10 +11,6 @@
   background-color: #ffffff;
 }
 
-.preload {
-  display: none;
-}
-
 body {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -117,6 +113,9 @@ body {
 }
 .content__title {
   padding-left: 10px;
+}
+.content__preload {
+  display: none;
 }
 @media screen and (max-width:650px) {
   .content__photo {

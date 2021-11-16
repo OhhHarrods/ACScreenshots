@@ -10364,8 +10364,14 @@ function onMouseOverOrg() {
 function photoChange() {
   document.getElementById("loading").style.display = "block";
   photoCount.innerHTML = "Photo " + count + " of " + totalPhotos;
+  mainImg = new Image();
+
+  mainImg.onload = function () {
+    alert("Height: " + this.height);
+    document.getElementById("loading").style.display = "none";
+  };
+
   mainImg.src = photo[count];
-  loading();
 }
 
 function loading() {

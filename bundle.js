@@ -10256,7 +10256,8 @@ var spinner = new spin_js__WEBPACK_IMPORTED_MODULE_1__["Spinner"]({
   color: '#000000',
   lines: 12
 }).spin(document.querySelectorAll(".loading-overlay")[0]);
-photo = ["https://lh3.googleusercontent.com/gsHNIxJzBoAj95UAUJV68uBSQ6sqMXjJwwvMoEi-mGxK10zaHSK4MzO6u7hwdDlZdW9tU1muVX7nJy6exIszHkOBeZshXvBnT9n7RhURpZsU3fMeQ-YBklcQmdlkvGPX9ivayAV0Aw=w2400", //Hush Evo 1
+photo = ["./photos/shouldnevershowthisphoto.jpg", //Filler photo
+"https://lh3.googleusercontent.com/gsHNIxJzBoAj95UAUJV68uBSQ6sqMXjJwwvMoEi-mGxK10zaHSK4MzO6u7hwdDlZdW9tU1muVX7nJy6exIszHkOBeZshXvBnT9n7RhURpZsU3fMeQ-YBklcQmdlkvGPX9ivayAV0Aw=w2400", //Hush Evo 1
 "https://lh3.googleusercontent.com/JfCAuye2DCfjdp0wCFXJ0_pHLNop0eO56iHCRjSnegmrKqQCJYgb0wHRs9GWiWNG2i1YwiP-YEajU8aFC2-5bJVUUtMkOsUZbkkxZMSnR26xOmJVuK-AwsVt6QZj5i38Z0RK9Ecuig=w2400", //Hush Evo 2
 "https://lh3.googleusercontent.com/JGc0Q9YcWQlTJXTyvn7MM2YRV6OFBvyyFNlKuWnIb7sBoHUSfklrsUhbplVoZEmLGQzIZyDZ6cqPnny4PDeZiDxyvjm711XzMySYrmi-XhH0mCvOxrXtr87vlSoUGNkQRr3P8FXiLA=w2400", //Hush Evo 3
 "https://lh3.googleusercontent.com/NzYLtiXSfCAO5BwnK9i-TwS-D1bWMBWSxsNBIBOLQ-pKR3EdLTzg3GUGDOpq3WQJW24-QxD3zSsLSSK5hd9j2GabV7aBk64r6tmbv7UzSqrqFkyjMw2r2kJoAI-Fh7juOPKZiOwA3w=w2400", //Hush Evo 4
@@ -10282,7 +10283,18 @@ photo = ["https://lh3.googleusercontent.com/gsHNIxJzBoAj95UAUJV68uBSQ6sqMXjJwwvM
 "https://lh3.googleusercontent.com/-7pv8jvMoSMIh45RaeqItcQu-dpn4rnXSemSQcflwK2eWwmulNdBOkNFlVeU2KNa66I2OuSGNXofj8pTgpg5QYJITA_owok2pQ-yEJhPgVsk-odJ7IK9qmNBgbMfMEpJMBWZYe7JCQ=w2400", //Rx7 FC3S
 "https://lh3.googleusercontent.com/_QfZLIg6fDY5fnMd0SsuDFPmYBWBiAe3c5jHkbGG35K4IM6LKkwrSY-6ISfsXXRoo7tHwffnz9NOc_l28GwzCNwZZJkyTd4QXk_NfW7A5MijmxK-bwwXedyPLbgdfAbqNroVFx_FSg=w2400", //S15
 "https://lh3.googleusercontent.com/6u07DSrXfG4GLBxcyJwPPfsq7Cg30xWvjouQe8Eyea_ZLUZpEaF_AaLJ9LmH8VZtM6TOeavIFpDqkm2JcyvjO0q7-i0pR9i9Cvfoo9QqyXFGmjhnci_T7pcmndO6jlsO4_UpnpbSsw=w2400", //s13 Moi
-"https://lh3.googleusercontent.com/a-rLl61jjwnFIz9_lyZJDrYrwZCdTssAkus748CJ7xdaM1xob7jdCmbQJZbokPO_CUqtFvEp0U7SXDfMd0y17A_NUPxQ1C_kHKjazeTHvGAQ_1-p4n4A84_jDSzuX0Ljw--4MDoA0w=w2400" //AMG
+"https://lh3.googleusercontent.com/a-rLl61jjwnFIz9_lyZJDrYrwZCdTssAkus748CJ7xdaM1xob7jdCmbQJZbokPO_CUqtFvEp0U7SXDfMd0y17A_NUPxQ1C_kHKjazeTHvGAQ_1-p4n4A84_jDSzuX0Ljw--4MDoA0w=w2400", //AMG
+"https://lh3.googleusercontent.com/Q_3Ff1H_JDS-b0DX56tgBjYWGyodicxdD9BAOtCkHrTj8ZXb3940pYSONYXq30HgbdlpwT2BSFWoKICtzCr8f7WpTSMuuGbRmWzh8Y9t3Ux6pzaKo7AU4koY_MVVtlykmFEtanscSw=w2400", //Cwest S15 1
+"https://lh3.googleusercontent.com/HZOuuQEDKeU3McIKwEN5PQefuTQ3e3F3vDOrygmWDxA6wmXrym4zyEoyrESYRENGLHhq-XO-xcBCu7hQ-Ir_3pgz17I2qaTP9PHqpDgelhEuSAoEQXuVF6XiJKyJ8mmoKQLN7W1W-g=w2400", //Cwest S15 2
+"https://lh3.googleusercontent.com/p7I8wgoS4f4FZedZ070V52VLFnEfQ5VArt-V5EXyuaLVG8alMeKMVuEusqQT6n0OX6SuvYS1bpkdF00sQUD8kkNGcugm-x6hdqM9Kfmachu0tqBqhFtYZNEVm4Gs2BpHS57Rd2F0BA=w2400", //Cwest S15 3
+"https://lh3.googleusercontent.com/4IYoII4NBZ6eufnzBkH4HYl8G68pY6nx83YEiZM8NtGeSVIw23iEWePpYMDtt09xqPKdeWXSc9oDZ3pCDL0OuID-0zyefQlGXd9e0vKYIQ2dmTahsQemnHvHhDvEdUhJG08c1ZCiXw=w2400", //Cwest S15 4
+"https://lh3.googleusercontent.com/ct4L7oUoaZGBMi9SxE2ocCPRDZIsdDM6BmFZzQ4metdmm2zhckU5vYFVD_rW55cDBnxg6NtPKJxyHj1B05kTCuT2nesoXHgOyoAssKUK5ATLeqWh_sehrasf57Bs__5mFAu47uQfuQ=w2400", //MSK S13 Moi
+"https://lh3.googleusercontent.com/ndTLix1Mg9R4VlljBcplKTP05Eqbe2Ay5O41EbgkNIo72_PP_YTJdzJ4fQU8AM1O363GcqvAgoNYK9fCe_0pmUb4AX4cH-38FgNBJnk_ylC6DSY6A5b6oKFL69F1pMrd6P9pG1Wtmg=w2400", //F40 1 moi
+"https://lh3.googleusercontent.com/b3EMQWodwmoSZ9Mlt1upyQyJjvvpsfCIgeVI7PMCySKz7BTMT1_jw1LvuH2OwzI7Tk6XvaSdNTkQre-eYkiDY1bALQEddI1f-IJ-nOYer23AAVU0lO79U1q0FKqZGXu18PJf3-ADfA=w2400", //F40 2 moi
+"https://lh3.googleusercontent.com/2qnNHICOxkOi32lq1G2CrtZ0YK6fySyrsiGV80NlOiHVeepOenT7fLLLyWMWsYgJZrUOLPHhFsfQATauayhL7fjne2ZxnaTfcd8rgaeREkZMjAlwbq-4wSPLOu09fGgl8xoUJ6lTvQ=w2400", //RX7 1 moi
+"https://lh3.googleusercontent.com/gtTCJUZnHFk6mqyesSiAVsN5o1n18LW2Qc0PUUvZn3MdTlFT2pTL3soGhdZA_Zjo3qCN6agDXtBUUCVO5umZ7PhaPISwVhhcsykrPuR7B-IRGmKfjWUNrMQv6R0geBu48txytGrcHg=w2400", //RX7 2 moi
+"https://lh3.googleusercontent.com/bLVLfP5o3c_rH1PZddTqgQfZFyPsJKKJ_jl_N3NIaX02MqdWWu2uHU0BZag01lHO7QsvheeBJKmcuXlin1skLSYdUlFPKPsgS3LA1p57bpcNAS4CkEKVF2Ck27d5IrbCnoASdz4FHQ=w2400", //RX7 3 moi
+"https://lh3.googleusercontent.com/NDw5JbX6dbuo4yKW8wvg9GElDDXIgKHEL0KrkSTsxmXgxkDZWIJ-8fKWXXZ3ntj31i8sX91VXKI_mLalA8TTu-G_uQdVDgEw0ZbLMz0hJcFfruIlwC3mkWvd4s-QQ0rTgh52l1N8eA=w2400" //Corolla Levin moi
 ];
 var btnPrevious;
 var btnNext;
@@ -10292,10 +10304,10 @@ var photoCount;
 var mainImg;
 var totalPhotos;
 var photo;
-totalPhotos = photo.length; // Checking to see if the Next / Previous button should be disabled / enabled
+totalPhotos = photo.length - 1; // Checking to see if the Next / Previous button should be disabled / enabled
 
 function countCheck() {
-  if (count <= 0) {
+  if (count <= 1) {
     btnPrevious.style.background = "gray";
     btnPrevious.disabled = true;
   } else {
@@ -10303,7 +10315,7 @@ function countCheck() {
     btnPrevious.disabled = false;
   }
 
-  if (count >= totalPhotos - 1) {
+  if (count == totalPhotos) {
     btnNext.style.background = "gray";
     btnNext.disabled = true;
   } else {
@@ -10320,7 +10332,7 @@ function nextButton() {
   countCheck();
   btnPrevious.disabled = false;
   btnPrevious.style.background = "rgb(28, 128, 221)";
-  photoCount.innerHTML = "Photo " + (count + 1) + " of " + totalPhotos;
+  photoCount.innerHTML = "Photo " + count + " of " + totalPhotos;
 }
 
 function previousButton() {
@@ -10328,7 +10340,7 @@ function previousButton() {
   countCheck();
   btnNext.disabled = false;
   btnNext.style.background = "rgb(28, 128, 221)";
-  photoCount.innerHTML = "Photo " + (count + 1) + " of " + totalPhotos;
+  photoCount.innerHTML = "Photo " + count + " of " + totalPhotos;
 }
 
 function viewOriginal() {
@@ -10381,7 +10393,7 @@ function main() {
   btnNext = document.getElementById("btnNext");
   btnOrg = document.getElementById("btnOrg");
   btnPrevious.disabled = true;
-  count = 0; // there has to be a way to do this without needing multiple event listeners.
+  count = 1; // there has to be a way to do this without needing multiple event listeners.
 
   btnPrevious.addEventListener("mouseleave", onMouseLeavePrev);
   btnPrevious.addEventListener("mouseover", onMouseOverPrev);
@@ -10392,6 +10404,7 @@ function main() {
   btnOrg.addEventListener("mouseleave", onMouseLeaveOrg);
   btnOrg.addEventListener("mouseover", onMouseOverOrg);
   btnOrg.addEventListener("click", viewOriginal);
+  photoChange();
 }
 
 main();

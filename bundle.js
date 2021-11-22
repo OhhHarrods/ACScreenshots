@@ -10294,7 +10294,8 @@ photo = ["./photos/shouldnevershowthisphoto.jpg", //Filler photo
 "https://lh3.googleusercontent.com/2qnNHICOxkOi32lq1G2CrtZ0YK6fySyrsiGV80NlOiHVeepOenT7fLLLyWMWsYgJZrUOLPHhFsfQATauayhL7fjne2ZxnaTfcd8rgaeREkZMjAlwbq-4wSPLOu09fGgl8xoUJ6lTvQ=w2400", //RX7 1 moi
 "https://lh3.googleusercontent.com/gtTCJUZnHFk6mqyesSiAVsN5o1n18LW2Qc0PUUvZn3MdTlFT2pTL3soGhdZA_Zjo3qCN6agDXtBUUCVO5umZ7PhaPISwVhhcsykrPuR7B-IRGmKfjWUNrMQv6R0geBu48txytGrcHg=w2400", //RX7 2 moi
 "https://lh3.googleusercontent.com/bLVLfP5o3c_rH1PZddTqgQfZFyPsJKKJ_jl_N3NIaX02MqdWWu2uHU0BZag01lHO7QsvheeBJKmcuXlin1skLSYdUlFPKPsgS3LA1p57bpcNAS4CkEKVF2Ck27d5IrbCnoASdz4FHQ=w2400", //RX7 3 moi
-"https://lh3.googleusercontent.com/NDw5JbX6dbuo4yKW8wvg9GElDDXIgKHEL0KrkSTsxmXgxkDZWIJ-8fKWXXZ3ntj31i8sX91VXKI_mLalA8TTu-G_uQdVDgEw0ZbLMz0hJcFfruIlwC3mkWvd4s-QQ0rTgh52l1N8eA=w2400" //Corolla Levin moi
+"https://lh3.googleusercontent.com/NDw5JbX6dbuo4yKW8wvg9GElDDXIgKHEL0KrkSTsxmXgxkDZWIJ-8fKWXXZ3ntj31i8sX91VXKI_mLalA8TTu-G_uQdVDgEw0ZbLMz0hJcFfruIlwC3mkWvd4s-QQ0rTgh52l1N8eA=w2400", //Corolla Levin moi
+"https://lh3.googleusercontent.com/hGHh4MFcMrsSL-3lyNGfiquTWh5_IKIP4wIcnVVp6mRgIk80xyPA7ttzjH5uQFOdD-izceKSGD2gvDb23Qoy7ZnnxbPYvghrIWnLzpyxKPKo-BhyyNxlwtKW7DHhAZsv319NPdwgDA=w2400" //YokiGarage S15
 ];
 var btnPrevious;
 var btnNext;

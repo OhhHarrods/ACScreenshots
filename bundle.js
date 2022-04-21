@@ -10295,7 +10295,10 @@ photo = ["./photos/shouldnevershowthisphoto.jpg", //Filler photo
 "https://lh3.googleusercontent.com/gtTCJUZnHFk6mqyesSiAVsN5o1n18LW2Qc0PUUvZn3MdTlFT2pTL3soGhdZA_Zjo3qCN6agDXtBUUCVO5umZ7PhaPISwVhhcsykrPuR7B-IRGmKfjWUNrMQv6R0geBu48txytGrcHg=w2400", //RX7 2 moi
 "https://lh3.googleusercontent.com/bLVLfP5o3c_rH1PZddTqgQfZFyPsJKKJ_jl_N3NIaX02MqdWWu2uHU0BZag01lHO7QsvheeBJKmcuXlin1skLSYdUlFPKPsgS3LA1p57bpcNAS4CkEKVF2Ck27d5IrbCnoASdz4FHQ=w2400", //RX7 3 moi
 "https://lh3.googleusercontent.com/NDw5JbX6dbuo4yKW8wvg9GElDDXIgKHEL0KrkSTsxmXgxkDZWIJ-8fKWXXZ3ntj31i8sX91VXKI_mLalA8TTu-G_uQdVDgEw0ZbLMz0hJcFfruIlwC3mkWvd4s-QQ0rTgh52l1N8eA=w2400", //Corolla Levin moi
-"https://lh3.googleusercontent.com/hGHh4MFcMrsSL-3lyNGfiquTWh5_IKIP4wIcnVVp6mRgIk80xyPA7ttzjH5uQFOdD-izceKSGD2gvDb23Qoy7ZnnxbPYvghrIWnLzpyxKPKo-BhyyNxlwtKW7DHhAZsv319NPdwgDA=w2400" //YokiGarage S15
+"https://lh3.googleusercontent.com/hGHh4MFcMrsSL-3lyNGfiquTWh5_IKIP4wIcnVVp6mRgIk80xyPA7ttzjH5uQFOdD-izceKSGD2gvDb23Qoy7ZnnxbPYvghrIWnLzpyxKPKo-BhyyNxlwtKW7DHhAZsv319NPdwgDA=w2400", //YokiGarage S15
+"https://lh3.googleusercontent.com/nlKQhKfg9hR7zmlAi575D5KE_deAhHYaAkSGIxt-BoJdszvkqKMErCB1-w5Is4wZSupSx4KenJwjQFskEuQw8c0zWfrSpoOJsSlK37_ptVcQqvVaGy3rGkBXyt6PeDVVZRv8AHsCEg=w2400", //3 Man Tandem
+"./photos/32kResPhoto.jpg", //32k Res S15
+"https://drive.google.com/file/d/1A5ZLWk3gpN6t2OpKWA4D1q73IBwp47Rm/view?usp=sharing" //62k Res AE86
 ];
 var btnPrevious;
 var btnNext;
@@ -10377,6 +10380,7 @@ function onMouseOverOrg() {
 function photoChange() {
   photoCount.innerHTML = "Photo " + count + " of " + totalPhotos;
   mainImg.src = photo[count];
+  console.log(mainImg.src);
 }
 
 function loading() {
@@ -10419,7 +10423,7 @@ main();
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\jarro\OneDrive\Desktop\Assetto Corsa Screenshot Website\node_modules\webpack-dev-server\client\index.js?http://localhost:5000 */"./node_modules/webpack-dev-server/client/index.js?http://localhost:5000");
+__webpack_require__(/*! C:\Users\jarro\OneDrive\Documents\Assetto Corsa Screenshot Website\node_modules\webpack-dev-server\client\index.js?http://localhost:5000 */"./node_modules/webpack-dev-server/client/index.js?http://localhost:5000");
 module.exports = __webpack_require__(/*! ./src/main.js */"./src/main.js");
 
 

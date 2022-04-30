@@ -10284,10 +10284,6 @@ photo = ["./photos/shouldnevershowthisphoto.jpg", //Filler photo
 "https://lh3.googleusercontent.com/_QfZLIg6fDY5fnMd0SsuDFPmYBWBiAe3c5jHkbGG35K4IM6LKkwrSY-6ISfsXXRoo7tHwffnz9NOc_l28GwzCNwZZJkyTd4QXk_NfW7A5MijmxK-bwwXedyPLbgdfAbqNroVFx_FSg=w2400", //S15
 "https://lh3.googleusercontent.com/6u07DSrXfG4GLBxcyJwPPfsq7Cg30xWvjouQe8Eyea_ZLUZpEaF_AaLJ9LmH8VZtM6TOeavIFpDqkm2JcyvjO0q7-i0pR9i9Cvfoo9QqyXFGmjhnci_T7pcmndO6jlsO4_UpnpbSsw=w2400", //s13 Moi
 "https://lh3.googleusercontent.com/a-rLl61jjwnFIz9_lyZJDrYrwZCdTssAkus748CJ7xdaM1xob7jdCmbQJZbokPO_CUqtFvEp0U7SXDfMd0y17A_NUPxQ1C_kHKjazeTHvGAQ_1-p4n4A84_jDSzuX0Ljw--4MDoA0w=w2400", //AMG
-"https://lh3.googleusercontent.com/Q_3Ff1H_JDS-b0DX56tgBjYWGyodicxdD9BAOtCkHrTj8ZXb3940pYSONYXq30HgbdlpwT2BSFWoKICtzCr8f7WpTSMuuGbRmWzh8Y9t3Ux6pzaKo7AU4koY_MVVtlykmFEtanscSw=w2400", //Cwest S15 1
-"https://lh3.googleusercontent.com/HZOuuQEDKeU3McIKwEN5PQefuTQ3e3F3vDOrygmWDxA6wmXrym4zyEoyrESYRENGLHhq-XO-xcBCu7hQ-Ir_3pgz17I2qaTP9PHqpDgelhEuSAoEQXuVF6XiJKyJ8mmoKQLN7W1W-g=w2400", //Cwest S15 2
-"https://lh3.googleusercontent.com/p7I8wgoS4f4FZedZ070V52VLFnEfQ5VArt-V5EXyuaLVG8alMeKMVuEusqQT6n0OX6SuvYS1bpkdF00sQUD8kkNGcugm-x6hdqM9Kfmachu0tqBqhFtYZNEVm4Gs2BpHS57Rd2F0BA=w2400", //Cwest S15 3
-"https://lh3.googleusercontent.com/4IYoII4NBZ6eufnzBkH4HYl8G68pY6nx83YEiZM8NtGeSVIw23iEWePpYMDtt09xqPKdeWXSc9oDZ3pCDL0OuID-0zyefQlGXd9e0vKYIQ2dmTahsQemnHvHhDvEdUhJG08c1ZCiXw=w2400", //Cwest S15 4
 "https://lh3.googleusercontent.com/ct4L7oUoaZGBMi9SxE2ocCPRDZIsdDM6BmFZzQ4metdmm2zhckU5vYFVD_rW55cDBnxg6NtPKJxyHj1B05kTCuT2nesoXHgOyoAssKUK5ATLeqWh_sehrasf57Bs__5mFAu47uQfuQ=w2400", //MSK S13 Moi
 "https://lh3.googleusercontent.com/ndTLix1Mg9R4VlljBcplKTP05Eqbe2Ay5O41EbgkNIo72_PP_YTJdzJ4fQU8AM1O363GcqvAgoNYK9fCe_0pmUb4AX4cH-38FgNBJnk_ylC6DSY6A5b6oKFL69F1pMrd6P9pG1Wtmg=w2400", //F40 1 moi
 "https://lh3.googleusercontent.com/b3EMQWodwmoSZ9Mlt1upyQyJjvvpsfCIgeVI7PMCySKz7BTMT1_jw1LvuH2OwzI7Tk6XvaSdNTkQre-eYkiDY1bALQEddI1f-IJ-nOYer23AAVU0lO79U1q0FKqZGXu18PJf3-ADfA=w2400", //F40 2 moi
@@ -10297,8 +10293,13 @@ photo = ["./photos/shouldnevershowthisphoto.jpg", //Filler photo
 "https://lh3.googleusercontent.com/NDw5JbX6dbuo4yKW8wvg9GElDDXIgKHEL0KrkSTsxmXgxkDZWIJ-8fKWXXZ3ntj31i8sX91VXKI_mLalA8TTu-G_uQdVDgEw0ZbLMz0hJcFfruIlwC3mkWvd4s-QQ0rTgh52l1N8eA=w2400", //Corolla Levin moi
 "https://lh3.googleusercontent.com/hGHh4MFcMrsSL-3lyNGfiquTWh5_IKIP4wIcnVVp6mRgIk80xyPA7ttzjH5uQFOdD-izceKSGD2gvDb23Qoy7ZnnxbPYvghrIWnLzpyxKPKo-BhyyNxlwtKW7DHhAZsv319NPdwgDA=w2400", //YokiGarage S15
 "https://lh3.googleusercontent.com/nlKQhKfg9hR7zmlAi575D5KE_deAhHYaAkSGIxt-BoJdszvkqKMErCB1-w5Is4wZSupSx4KenJwjQFskEuQw8c0zWfrSpoOJsSlK37_ptVcQqvVaGy3rGkBXyt6PeDVVZRv8AHsCEg=w2400", //3 Man Tandem
-"./photos/32kResPhoto.jpg", //32k Res S15
-"https://drive.google.com/file/d/1A5ZLWk3gpN6t2OpKWA4D1q73IBwp47Rm/view?usp=sharing" //62k Res AE86
+"https://lh3.googleusercontent.com/3NV6NFJIfpEiMwaNLUCYC9R26Sp_FA_gxCWn0L46T8JcpoDNp_RCuR3sQTQnj5hUABh9s-iD3X9wffX31A_WiNwYNoB4oSPjqbLKfMCxn60Cft7LNfroAghfsVJ4ngkQAnTtHHRenw=w2400", //MSK S13 (1)
+"https://lh3.googleusercontent.com/yu9bMK5od_iK0DqbimMwZFy5Fm9XC-sLfjgF3trikc6JxwsXEOMKw7Cr1WVM_GAwseXHqSYbbllAy76bxysqXEMDRC8pmNPvvzFO3FU-Bfn_NGV6L4uIPidB6oyhu5VIbK4r-ymdqA=w2400", //MSK S13 (2)
+"https://lh3.googleusercontent.com/4cjwi988yEtG6BXzUXw1TLindNEvJee4MFvWWkyc-Z_TiTqy2pVFiZHpfkVbPf6JvZkt2hyoXpDFi_G4abE9PQK6P7NkLPH6E3Ppikx1Q-duWwjn_8C8Qb0h8GUn50a5fgGukeiBlw=w2400", //MSK S13 (3)
+"https://lh3.googleusercontent.com/5OZOJ2hpPLlJOnLyZWfrSge-UturhcFG-MIzqDl7AuSC3T3EM7LvjoV2DEjDa6sOPIe1HieJVaDWunH4QXPBk9XaRjsrgdwKW1QAhnk1a_7XvO-Pm7TmWGrbRNvTuDoRbXlw_IAhpQ=w2400", //MSK S13 (4)
+"https://lh3.googleusercontent.com/vyPrEiUCTqJt2mluspgnRoHhZ6e1Be0tyv_VETeypVmUuAGB-Th62VMFWQtZrkq4G3ZXivXvLqT4D7QrNGLNunyMs8R9TQ5uLGkxFq1wGxByryA_-xvNVQZJxMBCJpN_39aAJfd0_w=w2400", //MSK S13 (5)
+"https://lh3.googleusercontent.com/a1sXcUcqgBsFKsoTFmsaf_WUg2ELaIa19RSBok9kZAdtHeX3kdHU0ujLDM0z3ME-pnDg4iqLhoAsYHL3uOFFSn9C7cR-WWBZ1yVEBe5IgWxHN1beagGodPsvC7nczXZTPsOJe_fmqA=w2400", //MSK S13 (6)
+"https://lh3.googleusercontent.com/nsacnugMYxSVnilQurE3L9ris6AmYV1Q6vMN-ulEvIoayrHaEVryzQ_xVoKBt3lJwA5RT4HGUvW0aG-WFL_wdWm0fS40FXATQ5VhqipuaHD7j8yxRKE1qQpP_ZX9cAGO3FTf2ThBJw=w2400" //MSK S13 (7)
 ];
 var btnPrevious;
 var btnNext;
